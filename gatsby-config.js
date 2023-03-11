@@ -1,15 +1,15 @@
 module.exports = {
   plugins: [
     {
-      resolve: `gatsby-theme-garden`,
+      resolve: `deepBlu-ocean`,
       options: {
-        contentPath: `deepBlu-ocean/src/site/notes`,
+        contentPath: `${__dirname}/src/site/notes`,
         rootNote: `/home`,
       },
     },
     `gatsby-plugin-netlify`
   ],
   siteMetadata: {
-    title: process.env.SITE_NAME,
+    title: 'deepBlu-ocean',
   },
 }
