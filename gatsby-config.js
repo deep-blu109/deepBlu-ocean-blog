@@ -1,7 +1,7 @@
 module.exports = {
   plugins: [
     {
-      resolve: `deepBlu-ocean`,
+      resolve: `gatsby-theme-garden`,
       options: {
         contentPath: `${__dirname}/src/site/notes`,
         rootNote: `/home`,
