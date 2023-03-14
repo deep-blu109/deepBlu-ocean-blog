@@ -11,14 +11,17 @@ vim을 제대로 활용하면 매우 빠른 속도로 개발이 가능하다고 
 <br/>
 
 ## Vim의 역사
-<p align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Bill_Joy_at_World_Economic_Forum_%28Davos%29%2C_2003-01_%28cropped%29.jpg" style="max-width: 70%; height: auto;"></p>
 
+![200](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bill_Joy_at_World_Economic_Forum_%28Davos%29%2C_2003-01_%28cropped%29.jpg/300px-Bill_Joy_at_World_Economic_Forum_%28Davos%29%2C_2003-01_%28cropped%29.jpg)
+
+<br/>
 1976년 Bill Joy라는 개발자가 <mark style="background: #ADCCFFA6;">"Vi"</mark>라는 텍스트 에디터를 개발했다. 
 
 Vi 이전에는 텍스트 편집 시 행간 커서 이동이 불가능했고, 편집을 위해 매번 편집을 위한 명령을 적용시켜야했다. 하지만 Vi는 이런 과정 없이 텍스트를 직접 조작하는 것이 가능했고  Unix 운영체제에서 이전보다 편리하게 프로그래밍을 할 수 있어 매우 유용하게 사용되었다. 
 
 <br/>
-<p align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Bram_Moolenaar_in_2007.jpg" style="max-width: 70%; height: auto;"></p>
+
+![200](https://upload.wikimedia.org/wikipedia/commons/f/ff/Bram_Moolenaar_in_2007.jpg)
 
 1991년 Bram Moolenaar라는 개발자가  <mark style="background: #ADCCFFA6;">"Vi IMproved"</mark>라는 좀 더 발전된 Vi 기반 텍스트 에디터를 개발하는 데 이게, 이번 포스트에서 다룰 <mark style="background: #ADCCFFA6;">"Vim"</mark>이다.
 
